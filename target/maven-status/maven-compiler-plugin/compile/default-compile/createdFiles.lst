@@ -1,0 +1,3 @@
+com\example\vodafonespringboot\VodafoneSpringBootApplication.class
+com\example\vodafonespringboot\controller\UserListController.class
+com\example\vodafonespringboot\models\User.class
